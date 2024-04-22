@@ -1,0 +1,9 @@
+C:\Users\Sabrina aviana dewi\OneDrive\Documents\KULIAH\Adpro\module-8-publisher\publisher\target\debug\deps\libthiserror-07743466be56934e.rmeta: C:\Users\Sabrina\ aviana\ dewi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.59\src\lib.rs C:\Users\Sabrina\ aviana\ dewi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.59\src\aserror.rs C:\Users\Sabrina\ aviana\ dewi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.59\src\display.rs
+
+C:\Users\Sabrina aviana dewi\OneDrive\Documents\KULIAH\Adpro\module-8-publisher\publisher\target\debug\deps\libthiserror-07743466be56934e.rlib: C:\Users\Sabrina\ aviana\ dewi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.59\src\lib.rs C:\Users\Sabrina\ aviana\ dewi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.59\src\aserror.rs C:\Users\Sabrina\ aviana\ dewi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.59\src\display.rs
+
+C:\Users\Sabrina aviana dewi\OneDrive\Documents\KULIAH\Adpro\module-8-publisher\publisher\target\debug\deps\thiserror-07743466be56934e.d: C:\Users\Sabrina\ aviana\ dewi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.59\src\lib.rs C:\Users\Sabrina\ aviana\ dewi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.59\src\aserror.rs C:\Users\Sabrina\ aviana\ dewi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.59\src\display.rs
+
+C:\Users\Sabrina\ aviana\ dewi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.59\src\lib.rs:
+C:\Users\Sabrina\ aviana\ dewi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.59\src\aserror.rs:
+C:\Users\Sabrina\ aviana\ dewi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.59\src\display.rs:
