@@ -29,3 +29,8 @@ Saat `cargo run` dijalankan di publisher, publisher mengirim 5 event ke message 
 
 Spike menandakan active connection ke RabbitMQ saat cargo run dijalankan karena publisher sedang berkomunikasi dengan RabbitMQ untuk mengirimkan 5 event ke subscriber.
 ![img_3.png](img_3.png)
+
+<h4> slow subscriber </h4>
+
+Terjadi 2 queues karena adanya blocking execution saat pelambatan yang membuat peningkatan queues (dari berkali-kali cargo run dengan cepat).
+![img_4.png](img_4.png)
