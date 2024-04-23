@@ -12,4 +12,15 @@ URL "amqp://guest:guest@localhost:5672" yang sama pada program Publisher dan pro
 `@localhost:5672` menunjukkan bahwa server AMQP berjalan di localhost (mesin yang sama dengan program) pada port 5672.
 Dengan menggunakan URL yang sama, penerbit dan pelanggan dapat terhubung ke server yang sama, memungkinkan mereka berkomunikasi melalui perantara pesan dengan parameter autentikasi yang sama.
 
+<h4> Running RabbitMQ </h4>
+
 ![img.png](img.png)
+
+<h4> subscriber making connection to the message broker </h4>
+
+![img_1.png](img_1.png)
+
+<h4> publisher cargo run in subscriber console </h4>
+
+Saat `cargo run` dijalankan di publisher, publisher mengirim 5 event ke message broker yang akan dikonsumsi dan diproses oleh subscriber sesuai kebutuhan.
+![img_2.png](img_2.png)
